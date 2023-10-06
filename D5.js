@@ -75,6 +75,14 @@ console.log(cars);
     Successivamente, rimuovi l'ultimo elemento della proprietà "trims" da ogni auto.
 */
 
+cars.push({
+  brand: "Mercedes",
+  model: "class A180",
+  color: "black",
+  trims: ["amg premium", "sport"],
+});
+console.log(cars);
+
 /*const count = cars.push({});
 console.log(count);
 console.log(cars);
