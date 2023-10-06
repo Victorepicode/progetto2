@@ -1,0 +1,98 @@
+html {
+  font-size: 100%;
+}
+header {
+  background: #222f3f;
+  text-align: left;
+  text-transform: uppercase;
+}
+
+.headerdiv {
+  background: #364759;
+}
+.stilelista {
+  color: white;
+  font-weight: arial;
+}
+
+.headerdiv2 {
+  background: #f56600;
+  margin-top: 10px;
+}
+
+div p {
+  color: white;
+  font-weight: arial;
+  text-align: center;
+}
+
+.div3 {
+  background-image: url("../images/bg-image.png");
+  text-align: center;
+  line-height: 1.5;
+  padding: 1em;
+  color: white;
+  margin-top: 10px;
+}
+div p {
+  font-size: small;
+}
+
+.div4 {
+  background-color: beige;
+}
+
+.immagine1 {
+  width: 100%;
+  height: 100%;
+  float: left;
+}
+
+.foto1 {
+  margin: auto;
+  display: inline-block;
+  width: 170px;
+}
+.foto2 {
+  margin: auto;
+  display: inline-block;
+  width: 200px;
+}
+.foto3 {
+  margin: auto;
+  display: inline-block;
+  width: 200px;
+}
+.foto4 {
+  margin: auto;
+  display: inline-block;
+  width: 200px;
+}
+.foto9 {
+  margin: auto;
+  display: block;
+  width: 100%;
+}
+.foto10 {
+  margin: auto;
+  display: block;
+  width: 100%;
+}
+.testo9 {
+  text-align: center;
+}
+.testo10 {
+  text-align: center;
+}
+.footerdiv {
+  background: #364759;
+  margin-top: 10px;
+}
+.footerdiv2 {
+  background: #222f3f;
+  text-align: center;
+  padding: 30px;
+}
+.logo {
+  width: 100px;
+}
